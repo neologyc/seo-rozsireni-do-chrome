@@ -1,0 +1,20 @@
+div[class*="explore"] {
+    display: block !important;
+    opacity: 1;
+    margin: auto;
+    margin-top:13px;
+}
+div[class*="explore"] > div {
+    display: block !important;
+    opacity: 1;
+}
+div[class*="__explore-container"] {
+    display: none !important;
+    opacity: 1;
+}
+span[class*="dismiss-button"] {
+	display:none !important;
+}
+div#rso div.srg div.g > div {
+    display: block !important;
+}
