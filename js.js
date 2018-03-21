@@ -1,17 +1,20 @@
-var callback = function (){
+var callback = function (){ 
   // do stuff after loaded
 
+  var kw = $("#lst-ib").val();
+  $("#rhs").prepend('<iframe src="https://www.marketingminer.com/cs/i-profiler/' + kw + '" width="100%" height="700px" frameborder="0" allowfullscreen=""></iframe>');
+  
   $( "#rhs" ).prepend( '<textarea id="kws"></textarea>'  );
 
   $( "div.g div .rc div div[class*='explore-main'] div div:not([class*='container'])" ).each(function( index ) {
     $( "#kws" ).append (  $( this ).text() + "\r\n" ) ;
   });
+  
+  
+} 
+    
 
-  console.log(data);
-}
-
-
-javascript:(function() {
+setTimeout(function () {
     function l(u, i) {
         var d = document;
         if (!d.getElementById(i)) {
@@ -23,4 +26,4 @@ javascript:(function() {
         }
     }
     l('//code.jquery.com/jquery-3.2.1.min.js', 'jquery')
-})();
+}, 1000)();
