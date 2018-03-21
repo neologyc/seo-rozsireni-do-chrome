@@ -18,3 +18,11 @@ span[class*="dismiss-button"] {
 div#rso div.srg div.g > div {
     display: block !important;
 }
+textarea#kws {
+	width: 100%;
+	height: 200px;
+}
+iframe#kwsmm {
+	width: 100%;
+	height: 600px;	
+}
