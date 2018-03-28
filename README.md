@@ -14,4 +14,4 @@ Marketing Miner najíždí zatím relativně pomalu - až 10s - vydržte, vyplat
 Pokud se iframe s Marketing Minerem nenačítá ani po 10s, tak zkuste, jestli jste [přihlášení](https://www.marketingminer.com/cs/login).
 
 ## Pak to vypadá takto:
-![nahled](http://hlavinka.cz/seoskoleni/mm.jpg)
+![nahled](http://hlavinka.cz/seoskoleni/m.jpg)
