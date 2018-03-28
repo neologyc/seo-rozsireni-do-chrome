@@ -27,6 +27,6 @@ iframe#kwsmm {
 	height: 600px;	
 }
 #mm_login_link {
-	text-decoration: underline;
+	text-decoration: underline !important;
 	color: blue;
 }
