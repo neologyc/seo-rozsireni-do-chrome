@@ -3,7 +3,7 @@ var callback = function (){
 
   var kw = $("#lst-ib").val();
   $("#rhs").prepend('<iframe src="https://www.marketingminer.com/cs/i-profiler/' + encodeURI( kw ) + '" width="100%" height="700px" frameborder="0" allowfullscreen=""></iframe>');
-  $("#rhs").prepend('<p>Pokud se níže nenačte Marketing Miner, tak se <a href="https://www.marketingminer.com/cs/login" target="_blank">přihlaste</a>.</p>');
+  $("#rhs").prepend('<p>Pokud se níže nenačte Marketing Miner, tak se <a href="https://www.marketingminer.com/cs/login" target="_blank" id="mm_login_link">přihlaste</a>.</p>');
   $( "#rhs" ).prepend( '<textarea id="kws"></textarea>'  );
 
   $( "div.g div .rc div div[class*='explore-main'] div div:not([class*='container'])" ).each(function( index ) {
