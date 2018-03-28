@@ -10,8 +10,15 @@ Stačí si nainstalovat jakoukoliv extension pro vkládání JS a CSS do stráne
 
 Soubory s JS a CSS jsou obsahem tohoto projektu.
 
-Marketing Miner najíždí zatím relativně pomalu - až 10s - vydržte, vyplatí se to. Tohle se změní a rychlost naćítání bude podstatně lepší.
-Pokud se iframe s Marketing Minerem nenačítá ani po 10s, tak zkuste, jestli jste [přihlášení](https://www.marketingminer.com/cs/login).
 
 ## Pak to vypadá takto:
 ![nahled](http://hlavinka.cz/seoskoleni/m.jpg)
+
+## Troubleshooting
+* Marketing Miner najíždí zatím relativně pomalu - až 10s - vydržte, vyplatí se to. Tohle se změní a rychlost naćítání bude podstatně lepší.
+* Pokud se iframe s Marketing Minerem nenačítá ani po 10s, tak zkuste, jestli jste [přihlášení](https://www.marketingminer.com/cs/login).
+
+
+## To-Do
+* Zabalit do Chrome Extension pro pohodlnější instalaci
+* Vyřešit rychlost načítání iframe z MM
