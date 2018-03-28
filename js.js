@@ -3,7 +3,7 @@ var callback = function (){
 
   var kw = $("#lst-ib").val();
   $("#rhs").prepend('<iframe src="https://www.marketingminer.com/cs/i-profiler/' + kw + '" width="100%" height="700px" frameborder="0" allowfullscreen=""></iframe>');
-  
+  $("#rhs").prepend('<a href="https://www.marketingminer.com/cs/login" taget="_blank">Prvně se přihlaste do Marketing Mineru.</a>');
   $( "#rhs" ).prepend( '<textarea id="kws"></textarea>'  );
 
   $( "div.g div .rc div div[class*='explore-main'] div div:not([class*='container'])" ).each(function( index ) {
