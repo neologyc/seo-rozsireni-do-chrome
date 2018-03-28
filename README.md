@@ -1,24 +1,24 @@
-# Google SEO extension
+# SEO rozšíření do Chrome
 
-Pomocí tohoto extension jde z Google vytahovat fráze Lidé také hledali.
-Stačí si nainstalovat jakoukoliv extension pro vkládání JS a CSS do stránek - například 
-[User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld)
- v Chrome a nastavit takto:
+Pomocí tohoto rozšíření jde z Google vytahovat fráze "Lidé také hledali". To je dobré například pro copywritery a SEO konzultanty, kteří hledají inspiraci na nová podobná klíčová slova.
+
+## Instalace
+Potřebujete:
+* prohlížeč Google Chrome
+* jakékoliv rozšíření do Chrome pro vkládání vlastního JS a CSS do stránek - já doporučuji 
+[User JavaScript and CSS](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld). 
+* Poté z tohoto projektu překopírujte obsah css.css a js.js (Soubory s JS a CSS jsou obsahem tohoto GitHub projektu.) do User JavaScript and CSS. Mělo by to vypadat takto:
 
 ![nahled](http://hlavinka.cz/seoskoleni/seo-extension-chrome.png)
 
-
-Soubory s JS a CSS jsou obsahem tohoto projektu.
-
-
-## Pak to vypadá takto:
+## Výsledek na stránce Google.cz/Google.com:
 ![nahled](http://hlavinka.cz/seoskoleni/m.jpg)
 
-## Troubleshooting
-* Marketing Miner najíždí zatím relativně pomalu - až 10s - vydržte, vyplatí se to. Tohle se změní a rychlost naćítání bude podstatně lepší.
-* Pokud se iframe s Marketing Minerem nenačítá ani po 10s, tak zkuste, jestli jste [přihlášení](https://www.marketingminer.com/cs/login).
+## Řešení problémů
+* Iframe Marketing Miner najíždí zatím relativně pomalu - až 10 sekund - vydržte, vyplatí se si počkat! Tohle se změní a rychlost načítání bude podstatně lepší.
+* Pokud se iframe s Marketing Minerem nenačítá ani po 10 sekundách, tak zkuste, jestli jste [přihlášení do marketing Mineru](https://www.marketingminer.com/cs/login).
 
 
 ## To-Do
-* Zabalit do Chrome Extension pro pohodlnější instalaci
+* Zabalit do Chrome extension pro pohodlnější instalaci
 * Vyřešit rychlost načítání iframe z MM
