@@ -1,9 +1,11 @@
-div[class*="explore"] {
+div[class*="explore"],
+div#rso div.srg div.g div[id^="eobm"] {
     display: block !important;
     opacity: 1;
     margin: auto;
     margin-top:13px;
 }
+
 div[class*="explore"] > div {
     display: block !important;
     opacity: 1;
@@ -15,8 +17,18 @@ div[class*="__explore-container"] {
 span[class*="dismiss-button"] {
 	display:none !important;
 }
-div#rso div.srg div.g > div {
+div#rso div.srg div.g > div,
+div#rso div.srg div.g div[class^="r-"] div, 
+div#rso div.srg div.g div[id^="eobm"] div, 
+div#rso div.srg div.g div[id^="eobd"] div 
+{
     display: block !important;
+    opacity: 1;
+}
+div#rso div.srg div.g h4[id^="eob"],
+div#rso div.srg div.g *[id^="eobs"] 
+{
+	display: none !important;
 }
 textarea#kws {
 	width: 100%;
