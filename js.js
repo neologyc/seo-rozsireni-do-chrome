@@ -6,7 +6,7 @@ var callback = function (){
   $("#rhs").prepend('<p>Pokud se níže nenačte Marketing Miner, tak se <a href="https://www.marketingminer.com/cs/login" target="_blank" id="mm_login_link">přihlaste</a>.</p>');
   $( "#rhs" ).prepend( '<textarea id="kws"></textarea>'  );
 
-  $( "div.g div .rc div div[class*='explore-main'] div div:not([class*='container'])" ).each(function( index ) {
+  $( "div.g div .rc div div[id^='eobd'] div" ).each(function( index ) {
     $( "#kws" ).append (  $( this ).text() + "\r\n" ) ;
   });
   
