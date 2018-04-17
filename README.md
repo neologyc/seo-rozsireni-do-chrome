@@ -1,6 +1,6 @@
 # SEO rozšíření do Chrome
 
-## Toto řešení je obsolete
+## Toto řešení je zastaralé
 Vyzkoušejte místo tohoto řešení raději rozšíření do Chrome, to totiž pravidelně aktualizuji:
 * https://chrome.google.com/webstore/detail/extract-people-also-searc/jepjhbfaflooeafdniebnnjfdpcdkejd?hl=en(https://chrome.google.com/webstore/detail/extract-people-also-searc/jepjhbfaflooeafdniebnnjfdpcdkejd?hl=en)
 
