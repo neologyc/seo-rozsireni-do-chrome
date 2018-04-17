@@ -1,5 +1,13 @@
 # SEO rozšíření do Chrome
 
+## Toto řešení je obsolete
+Vyzkoušejte místo tohoto řešení raději rozšíření do Chrome, to totiž pravidelně aktualizuji:
+* https://chrome.google.com/webstore/detail/extract-people-also-searc/jepjhbfaflooeafdniebnnjfdpcdkejd?hl=en(https://chrome.google.com/webstore/detail/extract-people-also-searc/jepjhbfaflooeafdniebnnjfdpcdkejd?hl=en)
+
+* https://chrome.google.com/webstore/detail/n%C3%A1vrhy-kl%C3%AD%C4%8Dov%C3%BDch-slov-v-g/aoapcobodgpplbhhgigiihdkkfkdbeob?hl=en(https://chrome.google.com/webstore/detail/n%C3%A1vrhy-kl%C3%AD%C4%8Dov%C3%BDch-slov-v-g/aoapcobodgpplbhhgigiihdkkfkdbeob?hl=en)
+
+
+
 Pomocí tohoto rozšíření jde z Google vytahovat fráze "Lidé také hledali". To je dobré například pro copywritery a SEO konzultanty, kteří hledají inspiraci na nová podobná klíčová slova.
 
 ## Instalace
